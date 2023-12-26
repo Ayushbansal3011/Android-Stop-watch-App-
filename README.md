@@ -1,1 +1,1 @@
-# Android-Stop-watch App
+# AndroidStop-Watch Application
